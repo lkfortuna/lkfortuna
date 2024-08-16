@@ -6,5 +6,3 @@
 - Coffee addict ☕
 - lover of puzzles 🧩
 
-Current project: learning all things github :octocat:  
-Current location: Bend, Oregon 🌲
